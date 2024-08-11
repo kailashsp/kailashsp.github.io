@@ -2,7 +2,7 @@
 title: "Fundamental Analysis of NSE Stocks with Gemini Pro Deployed in Hugging Face Space"
 date: 2024-02-08 00:00:00 +0000
 categories: [LLM]
-tags: [GEMINI]
+tags: [GEMINI, STOCKS]
 ---
 
 # Fundamental Analysis of NSE Stocks with Gemini Pro Deployed in Hugging Face Space
