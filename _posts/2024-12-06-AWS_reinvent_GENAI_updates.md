@@ -5,6 +5,7 @@ categories: [LLM, GENAI]
 tags: [AWS, Bedrock, Responsible AI, Anthropic, nova]
 ---
 
+![Flowchart](assets/images/AWS reinvent updates.png)
 ## 1.  Generative AI & Bedrock Enchancements
 
 
@@ -63,10 +64,12 @@ Speech-to-Speech Model (Q1 2025):
  - Applications include translation, content editing, and AI assistants.
 
 
+
+
 ## References
-    - [New API data ingestion](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-api-data-ingestion/)
-    - [Guardrails ARC](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-guardrails-automated-reasoning-checks/)
-    - [RAG evaluation](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-rag-evaluation/)
-    - [AWS Nova](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-nova-family-multimodal-generative-ai-models/)
-    - [Technical report](https://arxiv.org/abs/2311.13167) 
+- [New API data ingestion](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-api-data-ingestion/)
+- [Guardrails ARC](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-guardrails-automated-reasoning-checks/)
+- [RAG evaluation](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-rag-evaluation/)
+- [AWS Nova](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-nova-family-multimodal-generative-ai-models/)
+- [Technical report](https://arxiv.org/abs/2311.13167) 
 
