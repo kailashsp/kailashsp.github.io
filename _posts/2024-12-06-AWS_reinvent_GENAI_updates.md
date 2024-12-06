@@ -72,4 +72,5 @@ Speech-to-Speech Model (Q1 2025):
 - [RAG evaluation](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-rag-evaluation/)
 - [AWS Nova](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-nova-family-multimodal-generative-ai-models/)
 - [Technical report](https://arxiv.org/abs/2311.13167) 
+- [AWS subreddit](https://www.reddit.com/r/aws/comments/1h5uo48/aws_reinvent_2024_keynote_highlights/)
 
