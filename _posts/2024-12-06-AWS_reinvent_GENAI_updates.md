@@ -69,10 +69,10 @@ Speech-to-Speech Model (Q1 2025):
 
 
 ## References
-- [New API data ingestion](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-api-data-ingestion/)
-- [Guardrails ARC](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-guardrails-automated-reasoning-checks/)
-- [RAG evaluation](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-rag-evaluation/)
-- [AWS Nova](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-nova-family-multimodal-generative-ai-models/)
-- [Technical report](https://arxiv.org/abs/2311.13167) 
+- [New API data ingestion](https://aws.amazon.com/blogs/aws/new-apis-in-amazon-bedrock-to-enhance-rag-applications-now-available/)
+- [Guardrails ARC](https://aws.amazon.com/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/)
+- [RAG evaluation](https://aws.amazon.com/blogs/aws/new-rag-evaluation-and-llm-as-a-judge-capabilities-in-amazon-bedrock/)
+- [AWS Nova](https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/)
+- [Technical report](https://assets.amazon.science/9f/a3/ae41627f4ab2bde091f1ebc6b830/the-amazon-nova-family-of-models-technical-report-and-model-card.pdf) 
 - [AWS subreddit](https://www.reddit.com/r/aws/comments/1h5uo48/aws_reinvent_2024_keynote_highlights/)
 
