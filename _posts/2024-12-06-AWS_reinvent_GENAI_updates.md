@@ -53,7 +53,7 @@ Nova Reel:
  Generates six-second videos from prompts or reference images, with customizable camera motions like pans and 360° rotations.
  A two-minute video generation feature is coming soon.
 
-### 3. Upcoming Features
+## 3. Upcoming Features
 Speech-to-Speech Model (Q1 2025):
  - Transforms speech with natural human-like voice outputs.
  - Interprets verbal and nonverbal cues like tone and cadence.
