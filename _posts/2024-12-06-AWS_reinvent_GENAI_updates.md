@@ -11,7 +11,9 @@ tags: [AWS, Bedrock, Responsible AI, Anthropic, nova]
 
 ### Automated Reasoning Checks:
  Ensures factual accuracy by verifying model outputs mathematically—critical for high-stakes use cases like insurance claims.
- Bedrock Agents with Multi-Agent Collaboration: This new feature allows agents to work together on complex workflows, sharing insights and coordinating tasks seamlessly.
+
+### Bedrock Agents with Multi-Agent Collaboration:
+ This new feature allows agents to work together on complex workflows, sharing insights and coordinating tasks seamlessly.
 
 ### Supervisor Agents:
  Enables Management of dozens (or possibly hundreds) of task-specific agents, deciding if tasks run sequentially or in parallel and resolving conflicts. For example: A global coffee chain analyzing new store locations. One agent analyzes economic factors, another local market dynamics, and a third financial projections. The supervisor agent ties everything together, ensuring optimal collaboration.
