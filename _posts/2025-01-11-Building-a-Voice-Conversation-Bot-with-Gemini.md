@@ -1,7 +1,7 @@
 ---
 title: "Building a Real-Time Audio Chatbot with Twilio, FastAPI, and Google Gemini’s Multimodal Live API"
 date: 2025-01-11 00:00:00 +0000
-categories: [LLM, GENAI, Multimodal, RAG,  ]
+categories: [LLM, GENAI, Multimodal, RAG]
 tags: [AWS, Bedrock, Twilio, FastAPI,Pipecat]
 ---
 
