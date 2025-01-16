@@ -5,6 +5,7 @@ categories: [LLM, GENAI, Multimodal, RAG]
 tags: [AWS, Bedrock, Twilio, FastAPI,Pipecat]
 ---
 
+![Architecture Diagram ](assets/images/Realtime-voice-2025-01-16-131205.png)
 In the realm of conversational AI, real-time audio bots are becoming increasingly relevant. Whether you’re building customer support systems, voice-activated services, or interactive hotlines, combining a powerful AI model with robust telephony services can provide a seamless and engaging user experience.
 The challenges of the current ecosystem of audio bots are they tend to be rigidly configured, limiting their adaptability and making them less effective in dynamic scenarios. Moreover, their responses often come across as overly robotic, impacting user engagement and overall effectiveness. Additionally, they frequently fail to capture and react to a customer’s tone, compromising the quality of the interaction. For example, if a user needs the bot to slow down so they can note down important information, most existing systems are unable to adjust their response style accordingly, leading to frustration and reduced satisfaction.
 
